@@ -7,7 +7,7 @@ import { XHttp } from '../../src/js/xhttp.js';
     // Not a good way, to store API keys
     // ====================================
     let key = '2f9cd3f8';
-    let baseUrl = 'http://www.omdbapi.com/?apikey=' + key + '&';
+    let baseUrl = 'https://www.omdbapi.com/?apikey=' + key + '&';
 
 
     // ====================================
