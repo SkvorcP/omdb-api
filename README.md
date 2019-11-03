@@ -1,3 +1,3 @@
 "# omdb-api" 
 
-https://skvorcp.github.io/stop-watch/
+https://skvorcp.github.io/omdb-api/
